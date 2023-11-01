@@ -1,0 +1,244 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.znav {
+    display: flex;
+    padding: 10px;
+    
+    
+    
+}
+.contact{
+justify-content: end;
+}
+
+.znav :hover{
+    cursor: pointer;
+}
+
+
+
+
+
+.fnav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.fnav input{
+    width: 300px;
+    height: 27px;
+    border-radius:3px;
+    text-align: center;
+    border: 2px solid gray;
+    margin-top: 16px;
+}
+
+.fnav p{
+    margin-top: 17px;
+    font-size: 19px;
+
+}
+
+.snav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 11px;
+    background-color: rgb(226, 224, 218);
+}
+
+.snav p:hover{
+    border-bottom: 2px solid rgb(13, 13, 46);
+    color: rgb(13, 13, 46);
+    cursor: pointer;
+
+}
+
+.snav img{
+    width: 80px;
+    border-radius: 5px;
+}
+
+.cart1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 11px;
+}
+
+.cart1 .card1{
+    text-align: center;
+}
+.card1 :hover{
+    cursor: pointer;
+
+}
+.card1 p{
+    font-size: 18px;
+    padding: 20px;
+}
+.cart1 .card1 img{
+    
+    width: 50%;
+}
+
+
+.main img{
+    width: 100%;
+}
+
+.banner img{
+    width: 100%;
+}
+
+.banner1 img{
+    width: 100%;
+}
+
+.cart{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 11px;
+}
+
+.cart .card{
+    text-align: center;
+}
+.card :hover{
+    cursor: pointer;
+
+}
+.card button{
+    width: 100px;
+    height: 33px;
+    color: white;
+    background-color: rgb(12, 194, 194);
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;font-weight: 600;
+}
+.card button:hover{
+    cursor: pointer;
+}
+
+.card p{
+    font-size: 18px;
+    padding: 20px;
+}
+.cart .card img{
+    width: 70%;
+}
+
+.banner2 img{
+    width: 100%;
+}
+.banner2 h2{
+    text-align: center;
+    padding: 30px;
+}
+.banner3 img{
+    width: 100%;
+}
+.banner3 h2{
+    
+    text-align: center;
+    padding:30px;
+    
+}
+.banner4 img{
+    width: 100%;
+}
+.banner4 h2{
+    text-align: center;
+    padding: 30px;
+}
+.banner5 img{
+    width: 100%;
+
+}
+.banner5 h2{
+    text-align: center;
+    padding: 30px;
+}
+.banner6 img{
+    width:100%;
+}
+.banner6 h2{
+    text-align: center;
+    padding: 30px;
+}
+.banner7 img{
+    width:100%;
+}
+.banner7 h2{
+    text-align: center;
+    padding: 30px;
+}
+.banner8 img{
+    width:100%;
+}
+.banner8 h2{
+    text-align: center;
+    padding: 30px;
+}
+
+.banner10 img{
+    width:100%;
+}
+.banner10 h2{
+    text-align: center;
+    padding: 30px;
+}
+
+.banner11 .t-img{
+   display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    
+}
+.t-img img{
+    width: 44%;
+}
+
+.banner11 h2{
+    text-align: center;
+    padding: 30px;
+}
+
+.banner12 h2{
+    text-align: center;
+    padding: 30px;
+}
+.banner12 .t1-img{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.t1-img img{
+    width:44%;
+    padding: 20px;
+}
+
+.footer{
+    display: flex;
+    margin-top: 10px;
+    justify-content: left;
+    justify-content: space-between;
+    background-color: darkblue;
+    color: white;
+    padding:20px;
+
+}
+.footer .List ul{
+    List-style: none;
+}
+.footer a,img:hover{
+    cursor: pointer;
+}
+
+
